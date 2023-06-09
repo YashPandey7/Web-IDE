@@ -1,0 +1,32 @@
+.CodeMirror {
+    /* height: 340px !important; */
+    color: #fff;
+}
+
+.CodeMirror-gutters {
+    background: #1d1e22 !important;
+}
+
+.CodeMirror-scroll {
+    background: #1d1e22;
+}
+
+.CodeMirror-wrap pre {
+    word-break: break-word !important;
+}
+
+.react-codemirror2 {
+    flex: 1 1 auto;
+    margin-top: 0;
+    height: 100%;
+    position: relative;
+}
+
+.CodeMirror {
+    /* position: absolute; */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* height: 100%; */
+}
