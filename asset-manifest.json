@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Web-IDE/static/css/main.c0938285.css",
+    "main.js": "/Web-IDE/static/js/main.9ff93298.js",
+    "index.html": "/Web-IDE/index.html",
+    "main.c0938285.css.map": "/Web-IDE/static/css/main.c0938285.css.map",
+    "main.9ff93298.js.map": "/Web-IDE/static/js/main.9ff93298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0938285.css",
+    "static/js/main.9ff93298.js"
+  ]
+}
